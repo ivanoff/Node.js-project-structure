@@ -2,7 +2,7 @@
 var chai = require('chai');
 var expect = chai.expect;
 
-const Part = require('../lib/part');
+const Part = require('../src/lib/part');
 let part;
 
 describe('Part', () => {

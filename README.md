@@ -15,6 +15,12 @@
 npm test
 ```
 
+## Coverage (optional)
+
+```
+npm run coverage
+```
+
 ## Usage
 
 ```
@@ -35,3 +41,7 @@ Licensed under [MIT License](LICENSE).
 ## Created by
 
 App's author
+
+
+## to-do
+es6, npm run debug test, codestyle, readme

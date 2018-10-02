@@ -7,14 +7,17 @@
     "test": "test"
   },
   "scripts": {
-    "start": "node app.js",
-    "test": "node_modules/.bin/mocha"
+    "start": "node app",
+    "test": "node_modules/.bin/mocha",
+    "coverage": "istanbul cover node_modules/.bin/_mocha -- -- test/**/*.js",
+    "debug": "export LOG_LEVEL=debug && npm run"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "chai": "^4.2.0",
+    "istanbul": "^0.4.5",
     "mocha": "^5.2.0",
     "should": "^13.2.3"
   }
