@@ -1,5 +1,27 @@
 # App
 
+### v.0.0.1
+
+- [Dependencies](#dependencies)
+
+- [Instalation](#instalation)
+
+- [Testing (optional)](#testing_optional)
+
+- [Coverage (optional)](#coverage_optional)
+
+- [Usage](#usage)
+
+- [Example](#example)
+
+- [License](#license)
+
+
+## Dependencies
+
+- Node.js v.4.0 or higher
+
+
 ## Installation
 
 `git clone https://github.com/user/app.git`
